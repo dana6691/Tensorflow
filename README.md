@@ -1,2 +1,5 @@
 # Tensorflow
-Study material for tensorflow developer certification
+Tensorflow study & project
+- Image classification
+- NLP
+- Sequence and time series data
